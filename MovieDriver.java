@@ -3,6 +3,22 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 
 public class MovieDriver {
+
+    public Movie createMovie(Movie m) {
+
+    }
+
+    public Movie readMovie() {
+        
+    }
+
+    public boolean updateMovie(Movie m) {
+
+    }
+
+    public Movie deleteMovie() {
+
+    }
 	
 	public static void main(String[] args) {
 		
